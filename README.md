@@ -71,10 +71,6 @@
 * yts [title / result]
 * ytl [coming soon]
 
-*/
-# Image
-<img src="https://file-uploader.miftahganzz.repl.co/file/WZdvYrJR1m.png" alt="Feature" width="350"/>
-/*
 ----------
 # How To Install
 1. Get Telegram Bot Tokens from [Bot Father](https://t.me/@BotFather)
