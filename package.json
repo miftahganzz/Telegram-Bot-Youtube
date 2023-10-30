@@ -1,24 +1,40 @@
 {
-  "name": "nodejs",
+  "name": "Telegram Bot Youtube",
   "version": "1.0.0",
-  "description": "",
+  "description": "Telegram Bot Youtube Created By Miftah GanzZ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "base": "https://github.com/miftahganzz/Telegram-Bot-Youtube",
+    "url": "git+https://github.com/miftahganzz/Telegram-Bot-Youtube.git"
+  },
+  "keywords": [
+    "Youtube",
+    "Bot",
+    "Telegram",
+    "Youtube",
+    "Bot",
+    "Telegram",
+    "Telegram",
+    "Bot",
+    "Youtube",
+    "Youtube",
+    "NodeJS",
+    "JS",
+    "JavaScript"
+  ],
+  "author": "Miftah GanzZ",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miftahganzz/Telegram-Bot-Youtube/issues"
+  },
+  "homepage": "https://github.com/miftahganzz/Telegram-Bot-Youtube#readme",
   "dependencies": {
-    "@danitech/scraper": "^1.0.7",
-    "@replit/node-fetch": "^3.1.0",
-    "@types/node": "^18.0.6",
-    "axios": "^1.5.1",
-    "charai": "^1.0.0",
-    "cumsoft": "^1.0.0",
+    "axios": "^1.6.0",
     "node-cron": "^3.0.2",
-    "node-fetch": "^3.2.6",
-    "node-telegram-bot-api": "^0.63.0",
     "telegraf": "^4.15.0"
   }
 }
