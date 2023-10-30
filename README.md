@@ -87,6 +87,18 @@ git clone https://github.com/miftahganzz/Telegram-Bot-Youtube
 npm install
 node index.js
 ```
+### Run On Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/miftahganzz/Telegram-Bot-Youtube)
+
+### Run On Replit
+[![Run on Repl.it](https://repl.it/badge/github/miftah0908/Bot-Anonymous)](https://repl.it/github/miftahganzz/Telegram-Bot-Youtube)
+
+### Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=miftah0908)
+
+### Okteto
+[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
+
 # Settings
  
 <details>
