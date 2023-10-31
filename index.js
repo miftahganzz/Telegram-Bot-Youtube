@@ -1,3 +1,15 @@
+/*
+Thanks To 
+My God
+My Parent
+Miftah GanzZ (ME)
+Module Provider
+All User Use This Source
+
+Note: This Source Free For ALL. And Open Source So You Can Edit Or Add Other Feature.
+I'm update just i want :v
+*/
+
 const { Telegraf } = require('telegraf');
 const axios = require('axios');
 const fs = require('fs');
